@@ -24,4 +24,4 @@ This app allows users to **add, check/uncheck, and delete tasks** with a clean a
 lib/<br>
 ├── main.dart <br>
 ├── home_page.dart<br>
-└── to_do_list.dart<br>
+└── todo_list.dart<br>
