@@ -22,7 +22,6 @@ This app allows users to **add, check/uncheck, and delete tasks** with a clean a
 
 ## 📂 Project Structure
 lib/<br>
-├── main.dart # Entry point of the app <br>
-├── widgets/ # Custom UI components<br>
-├── models/ # Task model<br>
-└── screens/ # Home screen with task list<br>
+├── main.dart <br>
+├── home_page.dart<br>
+└── to_do_list.dart<br>
